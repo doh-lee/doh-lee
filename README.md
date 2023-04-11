@@ -45,6 +45,6 @@
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
   <br><br><br>
   <h6>✨ Portfolio & Contact ✨</h6>
-  <a href="https://github.com/doh-lee/portfolio_2023"><img src="https://img.shields.io/badge/Portfoilo-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/doh-lee/portfolio_2023"></a>
+  <a href="https://github.com/doh-lee/portfolio_2023"><img src="https://img.shields.io/badge/Portfoilo-181717?style=flat-square&logo=github&logoColor=white&link=https://www.idohee.com"></a>
   <a href="mailto:dohee.biz@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dohee.biz@gmail.com"></a>
 </div>
