@@ -1,5 +1,5 @@
 ### UI developer
-- Web pubilisher, UI developer since 2018
+- Web publisher, UI developer since 2018
 
 <div align="center">
   <h6>💻 Languages & Tools 💻</h6>
